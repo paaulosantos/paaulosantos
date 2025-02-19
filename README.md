@@ -1,16 +1,25 @@
-## Hi there 👋
+# 📱 Olá, eu sou Paulo!
+### 🚀 Estudante de Ciência da Computação | Focado em Mobile
 
-<!--
-**pauloo07/pauloo07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de Ciência da Computação, atualmente no 3º período, e estou sempre buscando aprender e evoluir na área de desenvolvimento. Meu foco é o desenvolvimento Mobile.  
 
-Here are some ideas to get you started:
+### 📚 O que estou estudando atualmente?  
+- Linguagens e Tecnologias: JavaScript, Node.js, Flutter, Swift 
+- Conceitos: Programação Orientada a Objetos (POO)  
+- Ferramentas: Git & GitHub  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Habilidades  
+✅ JavaScript | Flutter | Dart |   
+✅ Git & GitHub  
+✅ HTML | CSS  
+✅ Scrum | Kanban 
+
+### 🎯 Objetivo  
+Meu principal objetivo é aprofundar meus conhecimentos em desenvolvimento mobile, focando em arquitetura de software, banco de dados e criação de apps escaláveis.  
+
+### 📫 Onde me encontrar?  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pauloodev/)  
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/Paulo.pc07)  
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:santoozdev@gmail.com)  
+
+---
