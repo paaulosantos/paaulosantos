@@ -1,5 +1,5 @@
 # 📱 Olá, eu sou Paulo!
-### 🚀 Estudante de Ciência da Computação | Focado em Mobile
+### 🚀 Estudante de Ciência da Computação | Focado em Mobile IOS
 
 Sou estudante de Ciência da Computação, atualmente no 3º período, e estou sempre buscando aprender e evoluir na área de desenvolvimento. Meu foco é o desenvolvimento Mobile.  
 
