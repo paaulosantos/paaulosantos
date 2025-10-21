@@ -9,7 +9,7 @@ Sou estudante de Ciência da Computação, atualmente no 4º período, e estou s
 - Ferramentas: Git & GitHub  
 
 ### 🛠 Habilidades  
-✅ Swift | SwiftUI
+✅ Swift | SwiftUI  
 ✅ Git & GitHub  
 ✅ HTML | CSS  
 ✅ Scrum | Kanban 
